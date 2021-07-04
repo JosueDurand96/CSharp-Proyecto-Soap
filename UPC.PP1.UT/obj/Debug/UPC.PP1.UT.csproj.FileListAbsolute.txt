@@ -1,0 +1,14 @@
+C:\Users\josue.durand\Desktop\Josue Durand\Sist Distribuido\ProyectoSOAP\UPC.PP1.UT\bin\Debug\UPC.PP1.UT.dll
+C:\Users\josue.durand\Desktop\Josue Durand\Sist Distribuido\ProyectoSOAP\UPC.PP1.UT\bin\Debug\UPC.PP1.UT.pdb
+C:\Users\josue.durand\Desktop\Josue Durand\Sist Distribuido\ProyectoSOAP\UPC.PP1.UT\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\josue.durand\Desktop\Josue Durand\Sist Distribuido\ProyectoSOAP\UPC.PP1.UT\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\josue.durand\Desktop\Josue Durand\Sist Distribuido\ProyectoSOAP\UPC.PP1.UT\bin\Debug\UPC.PP1.BL.dll
+C:\Users\josue.durand\Desktop\Josue Durand\Sist Distribuido\ProyectoSOAP\UPC.PP1.UT\bin\Debug\UPC.PP1.BL.pdb
+C:\Users\josue.durand\Desktop\Josue Durand\Sist Distribuido\ProyectoSOAP\UPC.PP1.UT\bin\Debug\UPC.PP1.BL.dll.config
+C:\Users\josue.durand\Desktop\Josue Durand\Sist Distribuido\ProyectoSOAP\UPC.PP1.UT\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\josue.durand\Desktop\Josue Durand\Sist Distribuido\ProyectoSOAP\UPC.PP1.UT\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\josue.durand\Desktop\Josue Durand\Sist Distribuido\ProyectoSOAP\UPC.PP1.UT\obj\Debug\UPC.PP1.UT.csproj.AssemblyReference.cache
+C:\Users\josue.durand\Desktop\Josue Durand\Sist Distribuido\ProyectoSOAP\UPC.PP1.UT\obj\Debug\UPC.PP1.UT.csproj.CoreCompileInputs.cache
+C:\Users\josue.durand\Desktop\Josue Durand\Sist Distribuido\ProyectoSOAP\UPC.PP1.UT\obj\Debug\UPC.PP1.UT.csproj.CopyComplete
+C:\Users\josue.durand\Desktop\Josue Durand\Sist Distribuido\ProyectoSOAP\UPC.PP1.UT\obj\Debug\UPC.PP1.UT.dll
+C:\Users\josue.durand\Desktop\Josue Durand\Sist Distribuido\ProyectoSOAP\UPC.PP1.UT\obj\Debug\UPC.PP1.UT.pdb

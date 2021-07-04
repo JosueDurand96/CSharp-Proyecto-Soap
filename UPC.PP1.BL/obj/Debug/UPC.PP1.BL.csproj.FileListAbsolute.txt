@@ -1,0 +1,7 @@
+C:\Users\josue.durand\Desktop\Josue Durand\Sist Distribuido\ProyectoSOAP\UPC.PP1.BL\bin\Debug\UPC.PP1.BL.dll.config
+C:\Users\josue.durand\Desktop\Josue Durand\Sist Distribuido\ProyectoSOAP\UPC.PP1.BL\bin\Debug\UPC.PP1.BL.dll
+C:\Users\josue.durand\Desktop\Josue Durand\Sist Distribuido\ProyectoSOAP\UPC.PP1.BL\bin\Debug\UPC.PP1.BL.pdb
+C:\Users\josue.durand\Desktop\Josue Durand\Sist Distribuido\ProyectoSOAP\UPC.PP1.BL\obj\Debug\UPC.PP1.BL.csproj.AssemblyReference.cache
+C:\Users\josue.durand\Desktop\Josue Durand\Sist Distribuido\ProyectoSOAP\UPC.PP1.BL\obj\Debug\UPC.PP1.BL.csproj.CoreCompileInputs.cache
+C:\Users\josue.durand\Desktop\Josue Durand\Sist Distribuido\ProyectoSOAP\UPC.PP1.BL\obj\Debug\UPC.PP1.BL.dll
+C:\Users\josue.durand\Desktop\Josue Durand\Sist Distribuido\ProyectoSOAP\UPC.PP1.BL\obj\Debug\UPC.PP1.BL.pdb
